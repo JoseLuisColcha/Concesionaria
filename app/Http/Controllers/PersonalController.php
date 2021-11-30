@@ -12,7 +12,7 @@ class PersonalController extends Controller
         [
             ['Nombre' => 'Roberth ',
             'Apellido' => 'Pincha',
-            "Contacto"=>'0998374345',
+            "Contacto"=>'0998374348',
             "Web"=>'https://github.com/Roberth',
             "img"=>'http://www.w3bai.com/w3css/img_avatar3.png'
             ],
