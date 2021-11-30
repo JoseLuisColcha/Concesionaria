@@ -11,7 +11,7 @@ class CaracteristicasController extends Controller
            $caracteristicas =
         [
             ["img"=>'https://static.vecteezy.com/system/resources/previews/002/581/764/non_2x/car-steering-wheel-logo-illustration-free-vector.jpg',
-            'Titulo' => 'El concesionario mas grande ',
+            'Titulo' => 'El concesionario más amplio',
             'Contenido' => 'Quis nostrud exercitate laboridy aliquip duis irure sed dolor excepture fugiat incididunt ut labore et dolore.'
      
             ],
